@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(75, 4, 243);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    padding: 20px;
+    margin:10px;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+
+button{
+    width: auto;
+    height: 40px;
+}
